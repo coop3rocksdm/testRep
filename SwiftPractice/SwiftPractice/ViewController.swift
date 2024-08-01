@@ -56,9 +56,9 @@ class ViewController: UIViewController {
         init(name: String = "Ship") {
             self.name = name
         }
-        
+//        some new changes
     }
-    
+//    some changes
 
 }
 
